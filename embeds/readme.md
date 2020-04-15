@@ -1,0 +1,1 @@
+This directory contains HTML files to enable us to embed Tableau visualisations into other pages.
